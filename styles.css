@@ -26,16 +26,16 @@ body {
     margin: 30px 5px;
 }
 
-.green-col {
+.green {
     background-color: green;
     margin-left: 50px;
 }
 
-.yellow-col {
+.yellow {
     background-color: yellow;
 }
 
-.red-col {
+.red {
     background-color: red;
     margin-right: 50px;
 }
