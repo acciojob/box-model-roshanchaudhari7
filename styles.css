@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+}
+
+.container {
+    border: 5px solid black;
+    background-color: #d6e2de;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 40px;
+}
+
+.mod {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 50px;
+    margin: 30px 5px;
+}
+
+.green-col {
+    background-color: green;
+    margin-left: 50px;
+}
+
+.yellow-col {
+    background-color: yellow;
+}
+
+.red-col {
+    background-color: red;
+    margin-right: 50px;
+}
